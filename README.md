@@ -8,14 +8,14 @@ WayPop is a popup menu for wayland, its goal is to provide a GNOME like quick se
 window to manage all the different stuffs in a compact way with expandable area.
 It should also be able to let the user add some features via a configuration file.
 This project is inspired from a [mockup](https://gitlab.gnome.org/Teams/Design/os-mockups/-/commit/f07e260f25afb96dcfa7fcf4401a47c73bdc8f72) submitted by a graphic designer to the GNOME
-shell gtilab repository. Another inspiration comes from [nwg-panel](https://github.com/nwg-piotr/nwg-panel), as he is already building everything in python, I'd like to afterward try to rebuild my project using rust to actualy have a lightweight integration.
+shell gtilab repository. Another inspiration comes from [nwg-panel](https://github.com/nwg-piotr/nwg-panel), as he is already building everything in python, I'd like to afterward try to rebuild my project using rust or C to actualy have a lightweight integration.
 
 I'll use [this tutorial](https://github.com/Taiko2k/GTK4PythonTutorial) to start learning python and GTK4. 
 ## List of functionalities to provides
 - [ ] GTK4
     - Use the standard GTK4 theme
-- [ ] Python => Rust  
-    - It's going to be prototyped in python but should be ported to Rust afterward
+- [ ] Python => Rust / C  
+    - It's going to be prototyped in python but should be ported to Rust or C afterward
 - [ ] Power menu
     - Power Off
     - Log Out

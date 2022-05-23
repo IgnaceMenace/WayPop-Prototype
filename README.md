@@ -12,44 +12,44 @@ shell gtilab repository.
 
 I'll use [this tutorial](https://github.com/Taiko2k/GTK4PythonTutorial) to start learning python and GTK4. 
 ## List of functionalities to provides
-- [] GTK4
+- [ ] GTK4
     - Use the standard GTK4 theme
-- [ ] Rust
+- [ ] Python => Rust  
     - It's going to be prototyped in python but should be ported to Rust afterward
-- [] Power menu
+- [ ] Power menu
     - Power Off
     - Log Out
     - Suspend
-- [] Power management
+- [ ] Power management
     - Battery saver
     - Balanced
     - Performance
-- [] Sway settings
+- [ ] Sway settings
     Inspired by GNOME's PopOS_Shell quick settings
     - Changing tiling mode
     - Changing gap size
-- [] Output Menu
+- [ ] Output Menu
     - Enable monitor
     - Disable monitor
-- [] Input Menu
+- [ ] Input Menu
     - Change keyboard layout
-- [] Brightness
+- [ ] Brightness
     - Change brightness of a monitor
     - Enable night mode
     - Change red shift settings
-- [] Audio menu
+- [ ] Audio menu
     - Change volume of each output devices
     - Change volume of each input devices
     - Change volume of system or applications
     - Quick mute toggle
-- [] Network manager
+- [ ] Network manager
     - Select your wifi
     - Open your NetworkManager GUI or a small Pop UP
     - Problem is that enterprise Wifi are much more complicated to configure and this will be time consumming
     - VPN selecter
     - Bluetooth selecter
     - Airplane mode
-- [] Extensibility
+- [ ] Extensibility
     - Add new module via easy interface (python scripting, shell scripting)
 ## Difficulties
 - Expanding all the settings to new output or input

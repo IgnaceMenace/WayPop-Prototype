@@ -53,3 +53,5 @@ I'll use [this tutorial](https://github.com/Taiko2k/GTK4PythonTutorial) to start
     - Add new module via easy interface (python scripting, shell scripting)
 ## Difficulties
 - Expanding all the settings to new output or input
+# Installation
+it will be packaged into a pip package and if I ever port it to rust I will package it in a cargo package but need to create another repo anyway

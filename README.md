@@ -14,7 +14,7 @@ I'll use [this tutorial](https://github.com/Taiko2k/GTK4PythonTutorial) to start
 ## List of functionalities to provides
 - [] GTK4
     - Use the standard GTK4 theme
-- [] Rust
+- [ ] Rust
     - It's going to be prototyped in python but should be ported to Rust afterward
 - [] Power menu
     - Power Off

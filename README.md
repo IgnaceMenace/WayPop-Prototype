@@ -2,7 +2,7 @@
 
 **Warning, I'm not even sure to have the time necessary to build this,
 don't expect it to be ready soon, this is one of my first programming project,
-I'm not even a software engineer and the project havn't even started yet !**
+I'm not even a software engineer and the project hasn't even started yet !**
 
 WayPop is a popup menu for wayland, its goal is to provide a GNOME like quick setting
 window to manage all the different stuffs in a compact way with expandable area.

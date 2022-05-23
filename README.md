@@ -49,6 +49,10 @@ I'll use [this tutorial](https://github.com/Taiko2k/GTK4PythonTutorial) to start
     - VPN selecter
     - Bluetooth selecter
     - Airplane mode
+- [ ] Container manager
+    - Launch, or stop Podman container or toolbox
+- [ ] Scratchpad
+    - View what's in the Sway scratchpad
 - [ ] Extensibility
     - Add new module via easy interface (python scripting, shell scripting)
 ## Difficulties

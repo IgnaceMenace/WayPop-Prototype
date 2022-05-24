@@ -55,6 +55,7 @@ I'll use [this tutorial](https://github.com/Taiko2k/GTK4PythonTutorial) to start
     - View what's in the Sway scratchpad
 - [ ] Extensibility
     - Add new module via easy interface (python scripting, shell scripting)
+        - Example of a such module : Lokinet client connection interface
 ## Difficulties
 - Expanding all the settings to new output or input
 # Installation

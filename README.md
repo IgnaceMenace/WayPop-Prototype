@@ -58,5 +58,16 @@ I'll use [this tutorial](https://github.com/Taiko2k/GTK4PythonTutorial) to start
         - Example of a such module : Lokinet client connection interface
 ## Difficulties
 - Expanding all the settings to new output or input
+## Strategy
+I'll use this project to perfect myself in Python and try to learn new stuff and ways doing things professionaly. I like standardization because it simplify overall complexity even if it can make some simple things harder to do and in a way I think it is a minimalist way of doing stuff. Also GNOME will always be around and GTK too and always be free and backed up by RedHat etc. I like to learn skills that I will be able to use later even in a few years. 
+- GTK instead of Qt
+    - Gtk is developped only under free and open source licences, which is philosophicaly better in my opinion than the Qt licences. We never know at some point open source version of Qt might end up not being as well supported as the paid one.
+- .ui file
+    - I will create the GUI using xml in .ui file because it will be easier to change the code afterward, especially if I switch to rust
+    - Those .ui file will be build using Cambalache or GNOME Builder's designer
+- GTK application
+    - Since the application isn't originaly designed for GNOME it will be based on the GTK Application template
+- I'll try to generate the documentation the same way GNOME propose to do it because I'd like to experiment with their way of building apps
+- Since this is an experimentation and I have no clue how it will go, I might go back to programming in a more generic way using python Qt from a text editor and without fitting into a framework.
 # Installation
 it will be packaged into a pip package and if I ever port it to rust I will package it in a cargo package but need to create another repo anyway

@@ -70,4 +70,4 @@ I'll use this project to perfect myself in Python and try to learn new stuff and
 - I'll try to generate the documentation the same way GNOME propose to do it because I'd like to experiment with their way of building apps
 - Since this is an experimentation and I have no clue how it will go, I might go back to programming in a more generic way using python Qt from a text editor and without fitting into a framework.
 # Installation
-it will be packaged into a pip package and if I ever port it to rust I will package it in a cargo package but need to create another repo anyway
+it will be packaged into a pip package and using the GTK Application template if both are compatible and if I ever port it to rust I will package it in a cargo package but need to create another repo anyway

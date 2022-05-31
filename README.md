@@ -14,6 +14,7 @@ I'll use [this tutorial](https://github.com/Taiko2k/GTK4PythonTutorial) to start
 ## List of functionalities to provides
 - [ ] GTK4
     - Use the standard GTK4 theme
+    - I have just learned about [GTK layer shell](https://github.com/wmww/gtk-layer-shell), this is probably how i will build the project
 - [ ] Python => Rust / C  
     - It's going to be prototyped in python but should be ported to Rust or C afterward
 - [ ] Power menu
